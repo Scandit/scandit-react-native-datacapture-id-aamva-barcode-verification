@@ -1,0 +1,1 @@
+ScanditDataCaptureIdAamvaBarcodeVerification implements the id aamva barcode verification capabilities of the Scandit Data Capture SDK.
