@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.requires_arc            = true
   s.module_name             = "ScanditDataCaptureIdAamvaBarcodeVerification"
   s.header_dir              = "ScanditDataCaptureIdAamvaBarcodeVerification"
-  s.dependency 'ScanditIdAamvaBarcodeVerification', '= 7.4.1'
+  s.dependency 'ScanditIdAamvaBarcodeVerification', '= 7.3.3'
   s.source_files            = "ios/Sources/**/*.{h,m,swift}"
   s.dependency "React"
 end
